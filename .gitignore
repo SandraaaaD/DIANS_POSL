@@ -1,0 +1,8 @@
+# Ignoring large SQL and CSV files
+docker/db/init_utf8.sql
+docker/db/init.sql
+java/demo/src/main/resources/ohlcv.csv
+java/data/mydb.mv.db
+
+# Ignoring virtual environment completely
+python/venv_tf/
